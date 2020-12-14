@@ -82,6 +82,10 @@
 
 .link{
     cursor: pointer;
-    text-decoration: underline;
     color:white;
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
 }
