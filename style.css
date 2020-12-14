@@ -78,6 +78,7 @@
     background-color: transparent;
     color:white;
     border-radius: 5px;
+    pointer-events: none;
 }
 
 .link{
